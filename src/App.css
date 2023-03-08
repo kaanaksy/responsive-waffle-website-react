@@ -1,0 +1,12 @@
+.app {
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
